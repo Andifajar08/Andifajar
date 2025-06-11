@@ -1,2 +1,2 @@
-#hello word i am andi Fajar
+#hello world
 My Github Profile
